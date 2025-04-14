@@ -8,7 +8,7 @@ Tracking my daily progress through the LeetCode 75 in this repo.
 - This is only my second repo, so I'm also trying to build a strong portfolio
 
 ## 📅 How I'm doing it
-- Solve 3 problems
+- Solve around 3 problems a day
 - Only C++
 - Trying to learn why it works, not just mindlessly get the solution.
 
