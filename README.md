@@ -1,15 +1,15 @@
-# LeetCode 75 Solutions (100% C++)
+# LeetCode 75 Challenge - C++ Solutions
 
-This repo is where I'll save my daily progress through the LeetCode 75 questions.
+Tracking my daily progress through the LeetCode 75 in this repo.
 
-## ✅ I'm trying to improve this project:
-- Problem-solving skills
-- Clean, readable code
-- Build my portfolio
+## 🚀 Goals
+- I'm trying to get better at my problem-solving skills before I start my biggest project yet in C++
+- Because these are my first C++ projects, I'm trying to write clean, maintainable code
+- If you see this early enough, you can see that this is my second repo, so I'm also trying to build a strong portfolio
 
-## 🔧 How I'm doing it:
-- 3 problems a day
-- C++ only
-- Mainly focused on learning
+## 📅 Daily Routine
+- Solve 3 problems
+- Only C++
+- Trying to learn why it works, not just mindlessly get the solution.
 
 ****
