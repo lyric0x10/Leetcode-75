@@ -1,3 +1,4 @@
+// #2
 int gcd(size_t a, size_t b) {
     if (b == 0) {
         return a;
